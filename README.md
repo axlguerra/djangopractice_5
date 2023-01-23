@@ -1,0 +1,3 @@
+# djangopractice_5
+
+Django practice code...
